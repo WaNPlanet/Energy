@@ -10,21 +10,21 @@ const teamMembers = [
     name: "Kwame Boadi",
     position: "CEO & Founder",
     bio: "Visionary leader with 15+ years in energy sector innovation. Pioneered sustainable solutions across 3 continents.",
-    image: "/CEO.jpg"
+    image: "/CEO.png"
   },
   {
     id: 2,
     name: "Ama Serwah",
     position: "CTO",
     bio: "Tech innovator specializing in smart grid systems and renewable integration. PhD in Electrical Engineering.",
-    image: "/CEO-2.jpeg"
+    image: "/CEO-2.png"
   },
   {
     id: 3,
     name: "Kofi Mensah",
     position: "Chief Engineer",
     bio: "Infrastructure expert with a track record of delivering large-scale energy projects on time and under budget.",
-    image: "/CEO-3.jpg"
+    image: "/CEO-3.png"
   }
 ];
 
