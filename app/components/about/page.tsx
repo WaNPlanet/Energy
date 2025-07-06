@@ -47,7 +47,7 @@ const AboutSection = () => {
               Founded in 2010, Boadi Corp began as a small energy consultancy with a vision to transform how businesses access and utilize power.
             </p>
             <p className="mb-6">
-              Today, we're a leading provider of comprehensive energy solutions, serving clients across 24 regions with innovative approaches to power generation, distribution, and sustainability.
+              Today, we`&apos;`re a leading provider of comprehensive energy solutions, serving clients across 24 regions with innovative approaches to power generation, distribution, and sustainability.
             </p>
             <div className="flex gap-4">
               <motion.div 

@@ -152,7 +152,7 @@ export default function TechnologyPage() {
               </h2>
               <p className="text-gray-300 mb-8">
                 Our dedicated R&D center houses the brightest minds working on next-generation energy solutions. 
-                From quantum computing applications to nano-material research, we're pushing boundaries daily.
+                From quantum computing applications to nano-material research, we`&apos;`re pushing boundaries daily.
               </p>
               <ul className="space-y-4 mb-8">
                 <li className="flex items-start">

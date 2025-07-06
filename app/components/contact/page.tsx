@@ -2,7 +2,7 @@
 import { motion } from 'framer-motion';
 import { FiMail, FiPhone, FiMapPin, FiSend } from 'react-icons/fi';
 import { useState } from 'react';
-import Image from 'next/image'; // Added missing import
+
 
 export default function ContactPage() {
   const [formData, setFormData] = useState({
